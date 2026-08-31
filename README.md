@@ -21,4 +21,4 @@ I am a student interested in web development, programming, and technology.
 3. Open `index.html` in a web browser.
 
 ## Project Page
-[View My Resume](https://thotanikhilsai6.github.io/1-Page-Resume/)
+[View My Resume]( https://thotanikhilsai6.github.io/1-Page-Resume/)
